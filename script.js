@@ -1,3 +1,4 @@
+/*Iteration 7 : Identify and correct the error with */
 let randomNumber = Math.floor(Math.random()) + 1;
 const guesses = document.querySelector(".guesses");
 const lastResult = document.querySelector(".lastResult");
